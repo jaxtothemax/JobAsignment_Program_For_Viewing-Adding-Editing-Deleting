@@ -1,0 +1,12 @@
+C:\Users\Jax\source\repos\CallAPI\CallAPI\obj\Debug\CallAPI.csprojAssemblyReference.cache
+C:\Users\Jax\source\repos\CallAPI\CallAPI\obj\Debug\CallAPI.CallAPI.resources
+C:\Users\Jax\source\repos\CallAPI\CallAPI\obj\Debug\CallAPI.Properties.Resources.resources
+C:\Users\Jax\source\repos\CallAPI\CallAPI\obj\Debug\CallAPI.csproj.GenerateResource.cache
+C:\Users\Jax\source\repos\CallAPI\CallAPI\bin\Debug\CallAPI.exe.config
+C:\Users\Jax\source\repos\CallAPI\CallAPI\bin\Debug\CallAPI.exe
+C:\Users\Jax\source\repos\CallAPI\CallAPI\bin\Debug\CallAPI.pdb
+C:\Users\Jax\source\repos\CallAPI\CallAPI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Jax\source\repos\CallAPI\CallAPI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Jax\source\repos\CallAPI\CallAPI\obj\Debug\CallAPI.csproj.CopyComplete
+C:\Users\Jax\source\repos\CallAPI\CallAPI\obj\Debug\CallAPI.exe
+C:\Users\Jax\source\repos\CallAPI\CallAPI\obj\Debug\CallAPI.pdb
